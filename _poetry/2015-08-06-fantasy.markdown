@@ -1,8 +1,9 @@
 ---
+title: In That Other Fantasy Where We Live Forever
+date: 2015-08-06 07:59:00 Z
 layout: post
-title: In That Other Fantasy Where We Live Forever 
-date: 2015-08-06 07:59:00
 ---
+
 we were never caught    
     
 we partied the southwest, smoked it from L.A. to El Dorado     
